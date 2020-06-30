@@ -45,3 +45,4 @@ All the icons used were created in svg format to maintain their size-quality rat
 The original design of the cards and everything related to css styles belong to [Online Tutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog)
 
 [Original Card UI Design](https://www.youtube.com/watch?v=jUByQLfakJ8&t)# Nike-App
+# Nike-App
