@@ -11,13 +11,14 @@ body{
     font-family: 'Poppins', sans-serif;
     display: flex;
     justify-content: space-around;
-    align-items: center;
     min-height: 100vh;
     background-color: #131313;
+    margin-top: 50px;
 }
 .container{
    position: relative;
    margin-bottom: 40px;
+   margin-left: 40px;
 }
 .container .card{
     position: relative;
@@ -190,6 +191,8 @@ body{
     height: 350px;
     padding: 30px;
     border-radius: 20px;
+    position: fixed;
+    margin-left: 30px;
 }
 #productForm h2{
     font-size: 19px;
@@ -223,4 +226,13 @@ body{
     margin-top: 15px;
     font-size: 15px;
     cursor: pointer;
+}
+.penis{
+    position: relative;
+    width: 40vw;
+}
+#product-list{
+    display: flex;
+    flex-wrap: wrap;
+    width: 60vw;
 }
