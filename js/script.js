@@ -20,7 +20,7 @@
                 <div class="container">
                     <div class="card ${newSneaker.color}">
                         <div class="imgBx">
-                            <img src="/img/shoes-${newSneaker.color}.png" alt="shoes">
+                            <img src="img/shoes-${newSneaker.color}.png" alt="shoes">
                         </div>
                         <div class="contentBx">
                             <h2>${newSneaker.name}</h2>
